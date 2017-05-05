@@ -1,8 +1,8 @@
 
 # Open Source Fridays
 
-Developers at source{d} dedicate 10% of their development time to open source projects of their choice.
-This is accomplished with Open Source Fridays (OSF), which happen on the first Friday of each sprint.
+Developers at source{d} dedicate up to 10% of their development time to open source projects of their choice.
+This is accomplished with Open Source Fridays (OSF), which happens on the first Friday of each sprint.
 
 ## The Rules
 
